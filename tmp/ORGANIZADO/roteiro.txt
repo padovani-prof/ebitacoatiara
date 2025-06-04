@@ -1,0 +1,26 @@
+- Criar um github para o projeto
+- Colocar os arquivos originais dentro da pasta ./dados/originais com os seguintes nomes:
+  = MICRODADOS_ENEM_2018.csv
+  = MICRODADOS_ENEM_2019.csv
+  = MICRODADOS_ENEM_2022.csv
+  = MICRODADOS_ENEM_2023.csv
+  = ITENS_PROVA_2018.csv
+  = ITENS_PROVA_2019.csv
+  = ITENS_PROVA_2022.csv
+  = ITENS_PROVA_2023.csv
+  = Dicionário_Microdados_Enem_2018.xlsx
+  = Dicionário_Microdados_Enem_2019.xlsx
+  = Dicionário_Microdados_Enem_2022.xlsx
+  = Dicionário_Microdados_Enem_2023.xlsx
+- Criar uma planilha em ./scripts/organizador.xlsx que guarde o número do script (com 3 dígitos), sua descrição breve e suas observações
+- Colocar os scripts todos em ./scripts seguindo o padrão scriptXXX.py
+- Criar um script 000 que contém funções gerais como carregar_dados_originais([]), carregar_dados_ita([])
+- Ajustar o script 001 para incluir anos de 2018 e 2022 e executá-lo, salvando os arquivos MD_ENEM_ITA_XXXX.csv em ./dados
+- Criar um relatório técnico no overleaf com a seção Resultados e subseções Descrição socioeconômica do ENEM e Descrição de desempenho ENEM (estas seções vão armazenando o resumo de cada subsubseção)
+- Criar um apêndice de Detalhamento de resultados, que contém o detalhamento daquilo que foi apresentado nas seções do texto principal (indicando também qual script deve ser executado para se obter os dados)
+- Descrever os resultados socioeconômicos encontrados na subseção de Descrição socioeconômica (baseando-se nos resultados do Ryan) - acrescentar última subsubseção de Resumo
+- Descrever os resultados de desempenho na subseção de Descrição de desempenho (baseando-se nos resultados preliminares do Rômulo) - acrescentar última subsubseção de Resumo - não esquecer de incluir características das questões (incluindo dificuldade) e melhores e piores habilidades (geral e por área do conhecimento)
+- Incluir subsubseção Comparativo estadual (em que se compara os dados de Itacoatiara com Manaus, Parintins e talvez mais uma - aplicar agrupamento)
+- Incluir subsubseção Comparativo nacional
+- Criar a subseção Descrição de escolas (cruzando dados do Censo com IDEB)
+- Criar seções de Discussão (destacando pontos principais observados, explorando hipóteses, cruzando dados) e Conclusão (fechamento)
