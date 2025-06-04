@@ -1,4 +1,4 @@
-- Criar um github para o projeto
+- [OK] Criar um github para o projeto
 - Colocar os arquivos originais dentro da pasta ./dados/originais com os seguintes nomes:
   = MICRODADOS_ENEM_2018.csv
   = MICRODADOS_ENEM_2019.csv
