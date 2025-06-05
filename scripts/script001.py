@@ -1,7 +1,7 @@
-import script000 as geral
+import geral_enem as enem
 
 '''
     Cria um arquivo para cada ano com as linhas referentes a Itacoatiara apenas
 '''
 
-geral.salvar_dados_ita()
+enem.salvar_dados_ita()
