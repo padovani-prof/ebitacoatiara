@@ -1,4 +1,4 @@
-import pandas as pd
+import script000 as geral
 
 '''
     Cria um arquivo para cada ano com as linhas referentes a Itacoatiara apenas

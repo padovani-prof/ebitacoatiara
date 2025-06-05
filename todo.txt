@@ -1,5 +1,5 @@
 - [OK] Criar um github para o projeto
-- Colocar os arquivos originais dentro da pasta ./dados/originais com os seguintes nomes:
+- [OK] Colocar os arquivos originais dentro da pasta ./dados/originais com os seguintes nomes:
   = MICRODADOS_ENEM_2018.csv: impossível
   = MICRODADOS_ENEM_2019.csv: impossível
   = MICRODADOS_ENEM_2022.csv: impossível
@@ -12,7 +12,7 @@
   = Dicionário_Microdados_Enem_2019.xlsx
   = Dicionário_Microdados_Enem_2022.xlsx
   = Dicionário_Microdados_Enem_2023.xlsx
-- Adicionar arquivo de microdados contendo o endereço da internet onde é possível baixá-los
+- [OK] Adicionar arquivo de microdados contendo o endereço da internet onde é possível baixá-los
 - Criar uma planilha em ./scripts/organizador.xlsx que guarde o número do script (com 3 dígitos), sua descrição breve e suas observações
 - Colocar os scripts todos em ./scripts seguindo o padrão scriptXXX.py
 - Criar um script 000 que contém funções gerais como carregar_dados_originais([]), carregar_dados_ita([])
