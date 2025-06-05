@@ -13,10 +13,10 @@
   = Dicionário_Microdados_Enem_2022.xlsx
   = Dicionário_Microdados_Enem_2023.xlsx
 - [OK] Adicionar arquivo de microdados contendo o endereço da internet onde é possível baixá-los
-- Criar uma planilha em ./scripts/organizador.xlsx que guarde o número do script (com 3 dígitos), sua descrição breve e suas observações
+- [OK] Criar uma planilha em ./scripts/organizador.xlsx que guarde o número do script (com 3 dígitos), sua descrição breve e suas observações
 - Colocar os scripts todos em ./scripts seguindo o padrão scriptXXX.py
-- Criar um script 000 que contém funções gerais como carregar_dados_originais([]), carregar_dados_ita([])
-- Ajustar o script 001 para incluir anos de 2018 e 2022 e executá-lo, salvando os arquivos MD_ENEM_ITA_XXXX.csv em ./dados
+- [OK] Criar um script 000 que contém funções gerais como carregar_dados_originais([]), carregar_dados_ita([])
+- [OK] Ajustar o script 001 para incluir anos de 2018 e 2022 e executá-lo, salvando os arquivos MD_ENEM_ITA_XXXX.csv em ./dados
 - Criar um relatório técnico no overleaf com a seção Resultados e subseções Descrição socioeconômica do ENEM e Descrição de desempenho ENEM (estas seções vão armazenando o resumo de cada subsubseção)
 - Criar um apêndice de Detalhamento de resultados, que contém o detalhamento daquilo que foi apresentado nas seções do texto principal (indicando também qual script deve ser executado para se obter os dados)
 - Descrever os resultados socioeconômicos encontrados na subseção de Descrição socioeconômica (baseando-se nos resultados do Ryan) - acrescentar última subsubseção de Resumo
